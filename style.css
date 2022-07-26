@@ -28,7 +28,6 @@ h1 {
     height: 300px;
     background-color: #d6feff;
     margin: 5px;
-    border-radius: 10px;
 }
 
 .front,
@@ -41,8 +40,6 @@ h1 {
     box-sizing: border-box;
     justify-content: center;
     padding: 10px;
-    border: 1px solid transparent;
-    border-radius: 10px;
 }
 
 .front {
